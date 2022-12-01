@@ -2,9 +2,9 @@
 
 Programming language: Python 3
 
-| Day | Task                                                                      | View Solution                   |
-| --- | ------------------------------------------------------------------------- | ------------------------------- |
-| 01  | [?](https://adventofcode.com/2022/day/1)                                  | [AoC2022_01.py](/AoC2022_01.py) |
+| Day | Task                                                                     | View Solution                   |
+| --- | ------------------------------------------------------------------------ | ------------------------------- |
+| 01  | [Calorie Counting](https://adventofcode.com/2022/day/1)                  | [AoC2022_01.py](/AoC2022_01.py) |
 <!---
 | 02  | [?](https://adventofcode.com/2022/day/2)                                  | [AoC2022_02.py](/AoC2022_02.py) |
 | 03  | [?](https://adventofcode.com/2022/day/3)                                  | [AoC2022_03.py](/AoC2022_03.py) |
