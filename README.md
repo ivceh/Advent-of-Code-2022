@@ -2,11 +2,11 @@
 
 Programming language: Python 3
 
-| Day | Task                                                                     | View Solution                   |
-| --- | ------------------------------------------------------------------------ | ------------------------------- |
-| 01  | [Calorie Counting](https://adventofcode.com/2022/day/1)                  | [AoC2022_01.py](/AoC2022_01.py) |
+| Day | Task                                                                    | View Solution                   |
+| --- | ----------------------------------------------------------------------- | ------------------------------- |
+| 01  | [Calorie Counting](https://adventofcode.com/2022/day/1)                 | [AoC2022_01.py](/AoC2022_01.py) |
+| 02  | [Rock Paper Scissors ](https://adventofcode.com/2022/day/2)             | [AoC2022_02.py](/AoC2022_02.py) |
 <!---
-| 02  | [?](https://adventofcode.com/2022/day/2)                                  | [AoC2022_02.py](/AoC2022_02.py) |
 | 03  | [?](https://adventofcode.com/2022/day/3)                                  | [AoC2022_03.py](/AoC2022_03.py) |
 | 04  | [?](https://adventofcode.com/2022/day/4)                                  | [AoC2022_04.py](/AoC2022_04.py) |
 | 05  | [?](https://adventofcode.com/2022/day/5)                                  | [AoC2022_05.py](/AoC2022_05.py) |

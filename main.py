@@ -1,6 +1,6 @@
 from exec_days import exec_days
 
-exec_days(1)
+exec_days()
 # examples:
 #  exec_days()        # executes all days
 #  exec_days(1)       # executes day01("inputs/input01.txt")
