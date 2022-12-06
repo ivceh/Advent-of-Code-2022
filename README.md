@@ -2,15 +2,15 @@
 
 Programming language: Python 3
 
-| Day | Task                                                                    | View Solution                   |
-| --- | ----------------------------------------------------------------------- | ------------------------------- |
-| 01  | [Calorie Counting](https://adventofcode.com/2022/day/1)                 | [AoC2022_01.py](/AoC2022_01.py) |
-| 02  | [Rock Paper Scissors ](https://adventofcode.com/2022/day/2)             | [AoC2022_02.py](/AoC2022_02.py) |
+| Day | Task                                                                  | View Solution                   |
+| --- | --------------------------------------------------------------------- | ------------------------------- |
+| 01  | [Calorie Counting](https://adventofcode.com/2022/day/1)               | [AoC2022_01.py](/AoC2022_01.py) |
+| 02  | [Rock Paper Scissors ](https://adventofcode.com/2022/day/2)           | [AoC2022_02.py](/AoC2022_02.py) |
+| 03  | [Rucksack Reorganization](https://adventofcode.com/2022/day/3)        | [AoC2022_03.py](/AoC2022_03.py) |
+| 04  | [Camp Cleanup](https://adventofcode.com/2022/day/4)                   | [AoC2022_04.py](/AoC2022_04.py) |
+| 05  | [Supply Stacks](https://adventofcode.com/2022/day/5)                  | [AoC2022_05.py](/AoC2022_05.py) |
+| 06  | [Tuning Trouble](https://adventofcode.com/2022/day/6)                 | [AoC2022_06.py](/AoC2022_06.py) |
 <!---
-| 03  | [?](https://adventofcode.com/2022/day/3)                                  | [AoC2022_03.py](/AoC2022_03.py) |
-| 04  | [?](https://adventofcode.com/2022/day/4)                                  | [AoC2022_04.py](/AoC2022_04.py) |
-| 05  | [?](https://adventofcode.com/2022/day/5)                                  | [AoC2022_05.py](/AoC2022_05.py) |
-| 06  | [?](https://adventofcode.com/2022/day/6)                                  | [AoC2022_06.py](/AoC2022_06.py) |
 | 07  | [?](https://adventofcode.com/2022/day/7)                                  | [AoC2022_07.py](/AoC2022_07.py) |
 | 08  | [?](https://adventofcode.com/2022/day/8)                                  | [AoC2022_08.py](/AoC2022_08.py) |
 | 09  | [?](https://adventofcode.com/2022/day/9)                                  | [AoC2022_09.py](/AoC2022_09.py) |
