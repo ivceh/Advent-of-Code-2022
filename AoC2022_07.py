@@ -69,5 +69,4 @@ def day07(infile):
 
     # solving Part Two
     space_needed = root.size() - 40000000
-    print(space_needed)
     print("Part Two: ", smallest_bigger_than_x(root, space_needed))
