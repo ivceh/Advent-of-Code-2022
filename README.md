@@ -11,8 +11,8 @@ Programming language: Python 3
 | 05  | [Supply Stacks](https://adventofcode.com/2022/day/5)                  | [AoC2022_05.py](/AoC2022_05.py) |
 | 06  | [Tuning Trouble](https://adventofcode.com/2022/day/6)                 | [AoC2022_06.py](/AoC2022_06.py) |
 | 07  | [No Space Left On Device](https://adventofcode.com/2022/day/7)        | [AoC2022_07.py](/AoC2022_07.py) |
+| 08  | [Treetop Tree House](https://adventofcode.com/2022/day/8)             | [AoC2022_08.py](/AoC2022_08.py) |
 <!---
-| 08  | [?](https://adventofcode.com/2022/day/8)                                  | [AoC2022_08.py](/AoC2022_08.py) |
 | 09  | [?](https://adventofcode.com/2022/day/9)                                  | [AoC2022_09.py](/AoC2022_09.py) |
 | 10  | [?](https://adventofcode.com/2022/day/10)                                 | [AoC2022_10.py](/AoC2022_10.py) |
 | 11  | [?](https://adventofcode.com/2022/day/11)                                 | [AoC2022_11.py](/AoC2022_11.py) |
