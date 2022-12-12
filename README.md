@@ -12,9 +12,9 @@ Programming language: Python 3
 | 06  | [Tuning Trouble](https://adventofcode.com/2022/day/6)                 | [AoC2022_06.py](/AoC2022_06.py) |
 | 07  | [No Space Left On Device](https://adventofcode.com/2022/day/7)        | [AoC2022_07.py](/AoC2022_07.py) |
 | 08  | [Treetop Tree House](https://adventofcode.com/2022/day/8)             | [AoC2022_08.py](/AoC2022_08.py) |
+| 09  | [Rope Bridge](https://adventofcode.com/2022/day/9)                    | [AoC2022_09.py](/AoC2022_09.py) |
+| 10  | [Cathode-Ray Tube](https://adventofcode.com/2022/day/10)              | [AoC2022_10.py](/AoC2022_10.py) |
 <!---
-| 09  | [?](https://adventofcode.com/2022/day/9)                                  | [AoC2022_09.py](/AoC2022_09.py) |
-| 10  | [?](https://adventofcode.com/2022/day/10)                                 | [AoC2022_10.py](/AoC2022_10.py) |
 | 11  | [?](https://adventofcode.com/2022/day/11)                                 | [AoC2022_11.py](/AoC2022_11.py) |
 | 12  | [?](https://adventofcode.com/2022/day/12)                                 | [AoC2022_12.py](/AoC2022_12.py) |
 | 13  | [?](https://adventofcode.com/2022/day/13)                                 | [AoC2022_13.py](/AoC2022_13.py) |
