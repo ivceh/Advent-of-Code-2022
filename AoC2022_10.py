@@ -1,7 +1,6 @@
 def cycle():
     global time, s1, x, B
     part = time % 40
-    print(time)
     if x in (part - 1, part, part + 1):
         B[time] = '#'
     time += 1
