@@ -18,8 +18,8 @@ Programming language: Python 3
 | 12  | [Hill Climbing Algorithm](https://adventofcode.com/2022/day/12) | [AoC2022_12.py](/AoC2022_12.py) |
 | 13  | [Distress Signal](https://adventofcode.com/2022/day/13)         | [AoC2022_13.py](/AoC2022_13.py) |
 | 14  | [Regolith Reservoir](https://adventofcode.com/2022/day/14)      | [AoC2022_14.py](/AoC2022_14.py) |
+| 15  | [Beacon Exclusion Zone](https://adventofcode.com/2022/day/15)   | [AoC2022_15.py](/AoC2022_15.py) |
 <!---
-| 15  | [?](https://adventofcode.com/2022/day/15)                                 | [AoC2022_15.py](/AoC2022_15.py) |
 | 16  | [?](https://adventofcode.com/2022/day/16)                                 | [AoC2022_16.py](/AoC2022_16.py) |
 | 17  | [?](https://adventofcode.com/2022/day/17)                                 | [AoC2022_17.py](/AoC2022_17.py) |
 | 18  | [?](https://adventofcode.com/2022/day/18)                                 | [AoC2022_18.py](/AoC2022_18.py) |
